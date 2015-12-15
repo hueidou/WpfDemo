@@ -6,10 +6,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApuntaNotas.Tests", "ApuntaNotas.Tests\ApuntaNotas.Tests.csproj", "{63FAFA85-8065-4474-A387-C28824BA1427}"
 EndProject
 Global
-	GlobalSection(SubversionScc) = preSolution
-		Svn-Managed = True
-		Manager = AnkhSVN - Subversion Support for Visual Studio
-	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = ApuntaNotas.vsmdi
 	EndGlobalSection
